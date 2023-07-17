@@ -1,6 +1,6 @@
 """Password Check Program"""
 
-def main():
+def main() :
     password = get_password()
     print_password_stars(password)
 
